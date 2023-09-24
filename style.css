@@ -1,0 +1,22 @@
+body {
+    background-color: goldenrod;
+}
+header{
+    background-color:#fff;
+}
+footer {
+    background-color: darkslategrey;
+
+}
+.city {
+    min-height: 30px;
+}
+
+section img {
+    width: 250px;
+    height:250px;
+}
+.navbar-logo img {
+    max-width: 250px;
+    min-height: 100px;
+}

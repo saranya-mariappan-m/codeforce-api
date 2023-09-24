@@ -1,2 +1,2 @@
-# mercedes-api
-Figuring out integrating the Mercedes Benz API
+# CodeForce-api
+Figuring out integrating the CodeForce API
